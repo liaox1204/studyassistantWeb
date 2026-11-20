@@ -1,0 +1,22 @@
+
+# 依赖包
+node_modules/
+
+# 打包文件
+dist/
+
+# 环境变量
+.env
+.env.*
+!.env.example
+
+# 日志
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
